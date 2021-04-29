@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/Gherkin/gherkin-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/Gherkin/gherkin-jvm-deps-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/cucumber-core-6.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/cucumber-java-6.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/cucumber-junit-6.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/cucumber-testng-6.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/Cucumber-Sub Jars/apiguardian-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/Cucumber-Sub Jars/create-meta-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/Cucumber-Sub Jars/cucumber-core-6.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/Cucumber-Sub Jars/cucumber-expressions-10.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/Cucumber-Sub Jars/cucumber-gherkin-6.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/Cucumber-Sub Jars/cucumber-gherkin-messages-6.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/Cucumber-Sub Jars/cucumber-java-6.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/Cucumber-Sub Jars/cucumber-plugin-6.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/Cucumber-Sub Jars/datatable-3.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/Cucumber-Sub Jars/docstring-6.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/Cucumber-Sub Jars/html-formatter-12.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/Cucumber-Sub Jars/messages-14.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya.Nanduri/Desktop/Tools/CucumberJars/Cucumber-Sub Jars/tag-expressions-3.0.0.jar"/>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
